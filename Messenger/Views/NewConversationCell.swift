@@ -2,8 +2,7 @@
 //  NewConversationCell.swift
 //  Messenger
 //
-//  Created by Afraz Siddiqui on 6/15/20.
-//  Copyright © 2020 ASN GROUP LLC. All rights reserved.
+//  Created by apple on 01/04/22.
 //
 
 import Foundation
